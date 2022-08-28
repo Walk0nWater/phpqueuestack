@@ -1,0 +1,6 @@
+Grad;Pbr
+Zagreb;10000
+Zadar;23000
+Osijek;31000
+Rijeka;51000
+Split;21000
